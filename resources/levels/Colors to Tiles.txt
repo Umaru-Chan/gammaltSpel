@@ -1,0 +1,41 @@
+
+
+har "static final" int(s) som håller färgkoderna så behöver inte denna sida. 
+behåller den endå lol.
+
+GrassTile_1 = 0xff00ff00
+GrassTile_2 = 0xff0c7e19
+//tysta-Flaktar1337
+//a1l2e3x4a5n6d7e8r9
+GrassTile_3 =
+grassTile_flower_1 (RED)= 0xff313f33
+grassTile_flower_2 (BLUE)= 0xff6c7c6e
+
+SandTile_1 = 0xffffff00
+SandTile_2 = 0xffd9b378
+SandTile_3 = 0xfff3c884
+
+StoneTile_1 = 0xff535553
+StoneTile_2 = 0xff686a68
+StoneTile_3 = 0xff000000
+
+WoodTile_1 = 0xffe8ba71
+WoodTile_2 = 0xffca8820
+WoodTile_3 =
+
+wallTile = 0xff9f9f9f
+
+voidTile = 0xffffffff
+
+WaterTile = 0xff0000ff
+
+WaterCornerTile_1 (bottom right)= 0xffdaffae
+WaterCornerTile_2 (bottom left)= 0xff8aff00
+WaterCornerTile_3 (top right)= 0xff2e5500
+WaterCornerTile_4 (top left)= 0xff768662
+
+WaterEdgeTile_1 (bottom)= 0xff006a70
+WaterEdgeTile_2 (top)= 0xff445758
+WaterEdgeTile_3 (left)=	0xff0099a1
+WaterEdgeTile_4 (right)= 0xff00eaff
+ 
